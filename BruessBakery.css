@@ -1,0 +1,269 @@
+.introduction{
+    position: relative;
+    text-align: center;
+    height: 725px;
+    background: url(Photos/photo-1464305795204-6f5bbfc7fb81.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-transform: uppercase;
+}
+
+.top-center{
+    position: absolute;
+    margin: auto;
+    top: 0%;
+    color: darksalmon;
+    font-size: 50px;
+    left: 50%;
+    transform: translateX(-50%);
+    letter-spacing: 10px;
+}
+
+ul {
+    position: absolute;
+    list-style: none;
+    top: 5%;
+    left: 47%;
+    transform: translateX(-47%);
+    
+}
+
+li {
+    display: inline-block;
+    margin: 10px;
+    color: darksalmon;
+}
+
+h2{
+    color: darksalmon;
+    position: absolute;
+    letter-spacing: 10px;
+    font-weight: 100;
+}
+
+.open{
+    background-color: white;
+    margin: 10px;
+    box-shadow: 3px 3px 28px 0px rgba(50, 50, 50, 0.59);
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 20px;
+    text-align: center;
+    top: 685px;
+    text-transform: uppercase;
+}
+
+h3{
+    color: darksalmon;
+    text-transform: uppercase;
+    letter-spacing: 8px;
+}
+
+.homegrown{
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 20px;
+    font-size: 26px;
+    padding-top: 50px;
+    border-bottom: #000000;
+    
+}
+
+hr{
+    width: 5%;
+    height: 1px;
+    background: #000000;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    display: block;
+    margin-top: 115px;
+    background-color: lightgray;
+}
+
+.description{
+    color: darkgray;
+    text-align: center;
+    display: block;
+    position: absolute;
+    padding-top: 110px;
+    width: 600px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 22px;
+}
+
+.food{
+    background: url(Photos/photo-1474045326708-cdc78c2487cb2.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 725px;
+    margin-top: 275px;
+    
+}
+
+.feature{
+    position: absolute;
+    background-color: white;
+    margin-top: -2%;
+    box-shadow: 3px 3px 28px 0px rgba(50, 50, 50, 0.59);
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 20px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.salmon{
+    width: 230px;
+    height: 1px;
+    background: #000000;
+    position: absolute;
+    left: 14%;
+    transform: translateX(-14%);
+    display: block;
+    margin-top: 250px;
+    background-color: darksalmon;
+}
+
+.monday{
+    position: absolute;
+    color: darksalmon;
+    margin-top: 260px;
+    left: 12%;
+    transform: translateX(-12%);
+    text-transform: uppercase;
+    font-size: 12px;
+}
+
+.foodDay{
+    color: darksalmon;
+    position: absolute;
+    font-size: 28px;
+    width: 230px;
+    left: 14%;
+    transform: translateX(-14%);
+    margin-top: 280px;
+    font-family: serif;
+}
+
+.reserve{
+    position: absolute;
+    background-color: white;
+    margin-top: -3%;
+    box-shadow: 3px 3px 28px 0px rgba(50, 50, 50, 0.59);
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 20px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.services{
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 20px;
+    font-size: 26px;
+    padding-top: 50px;
+    border-bottom: #000000;
+}
+
+hr1{
+    width: 5%;
+    height: 1px;
+    background: #000000;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    display: block;
+    margin-top: 115px;
+    background-color: darksalmon;
+}
+
+p4{
+    position: absolute;
+    color: darkgray;
+    text-align: center;
+    display: block;
+    position: absolute;
+    margin-top: 10px;
+    width: 600px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 22px;
+}
+
+.catering{
+    position: absolute;
+    left: 200%;
+    transform: translateX(-200%);
+}
+
+.cakes{
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.events{
+    position: absolute;
+    left: 75%;
+    transform: translateX(75%);
+}
+
+.cater{
+    position: absolute;
+    margin-top: 250px;
+    color: darksalmon;
+    font-size: 18px;
+    left: -500%;
+    
+}
+
+.cake{
+    position: absolute;
+    margin-top: 250px;
+    color: darksalmon;
+    font-size: 18px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.space{
+    position: relative;
+    margin-top: 250px;
+    color: darksalmon;
+    font-size: 18px;
+    left: 300%;
+    transform: translateX(300%);
+}
+
+.number{
+    position: absolute;
+    margin-top: 250px;
+    color: darksalmon;
+    font-size: 18px;
+    left: -500%;
+    
+}
+
+.address{
+    position: absolute;
+    margin-top: 250px;
+    color: darksalmon;
+    font-size: 18px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 250px;
+}
+
+.copyright{
+    position: absolute;
+    margin-top: 250px;
+    color: darksalmon;
+    font-size: 18px;
+    left: 100%;
+    transform: translateX(100%);
+    width: 300px;
+}
